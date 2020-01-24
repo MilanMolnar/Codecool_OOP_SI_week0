@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nevie\\Desktop\\lolshallowdeep\\ShallowVsDeepCopy\\ShallowVsDeepCopy\\ShallowVsDeepCopy.csproj": {}
+    "C:\\Users\\nevie\\Desktop\\copy\\ShallowVsDeepCopy\\ShallowVsDeepCopy\\ShallowVsDeepCopy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nevie\\Desktop\\lolshallowdeep\\ShallowVsDeepCopy\\ShallowVsDeepCopy\\ShallowVsDeepCopy.csproj": {
+    "C:\\Users\\nevie\\Desktop\\copy\\ShallowVsDeepCopy\\ShallowVsDeepCopy\\ShallowVsDeepCopy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nevie\\Desktop\\lolshallowdeep\\ShallowVsDeepCopy\\ShallowVsDeepCopy\\ShallowVsDeepCopy.csproj",
+        "projectUniqueName": "C:\\Users\\nevie\\Desktop\\copy\\ShallowVsDeepCopy\\ShallowVsDeepCopy\\ShallowVsDeepCopy.csproj",
         "projectName": "ShallowVsDeepCopy",
-        "projectPath": "C:\\Users\\nevie\\Desktop\\lolshallowdeep\\ShallowVsDeepCopy\\ShallowVsDeepCopy\\ShallowVsDeepCopy.csproj",
+        "projectPath": "C:\\Users\\nevie\\Desktop\\copy\\ShallowVsDeepCopy\\ShallowVsDeepCopy\\ShallowVsDeepCopy.csproj",
         "packagesPath": "C:\\Users\\nevie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nevie\\Desktop\\lolshallowdeep\\ShallowVsDeepCopy\\ShallowVsDeepCopy\\obj\\",
+        "outputPath": "C:\\Users\\nevie\\Desktop\\copy\\ShallowVsDeepCopy\\ShallowVsDeepCopy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
