@@ -41,9 +41,9 @@ namespace ShallowVsDeepCopy
         {
             string[] copiedIngridients = new string[Ingridients.Length];
             for (int i = 0; i < Ingridients.Length; i++)
-			{
+	    {
                 copiedIngridients[i] = Ingridients[i];
-			}
+	    }
             return new Recipe( this.Name, copiedIngridients);
         }
         public object SClone() //Shallow copy
